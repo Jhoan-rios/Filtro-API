@@ -1,0 +1,39 @@
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\appsettings.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Filtro API.exe
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Filtro API.deps.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Filtro API.runtimeconfig.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Filtro API.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Filtro API.pdb
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.csproj.AssemblyReference.cache
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.AssemblyInfoInputs.cache
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.AssemblyInfo.cs
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.csproj.CoreCompileInputs.cache
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets\msbuild.Filtro API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets\msbuild.build.Filtro API.props
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Filtro API.props
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Filtro API.props
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\scopedcss\bundle\Filtro API.styles.css
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.csproj.Up2Date
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\refint\Filtro API.dll
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.pdb
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\Filtro API.genruntimeconfig.cache
+C:\Users\jhoan\OneDrive\Escritorio\Filtro API\obj\Debug\net8.0\ref\Filtro API.dll
